@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+hyperparam/
+TrainingQ1/
+TrainingQ2/
+TrainingQ3/
+LSTM_*.keras
+.DS_Store
+models/
